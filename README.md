@@ -1,1 +1,3 @@
-# BS192_IITGN
+## BS192_IITGN
+
+#### Before viewing anything kindly read [License](./LICENSE)
